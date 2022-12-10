@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    padding-top: 100px;
+    font-family: 'Handlee', cursive;
+    font-size: 2.7rem;
+    color: #66BFBF;
+}
+.desc {
+    font-weight: normal;
+    line-height: 2;
+}
+h2 {
+    color:  #66BFBF;
+}
+h3 {
+    color: #11999E;
+}
+a {
+    color: #11999E;
+}
+.top {
+    background-color: #F0DBDB;
+    position: relative;
+
+}
+
+span {
+    text-decoration: underline;
+} 
+.mountain {
+    width: 300px;
+    padding-bottom: 0;
+}
+
+.cloud1 {
+    width: 60px;
+    position: absolute;
+    right: 40px;
+    top: 60px;
+}
+.cloud2 {
+    width: 60px;
+    position: absolute;
+    left: 50px;
+}
+
+.profilePic {
+    width: 50%;
+    border-radius: 100px;
+}
+ 
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 1;
+
+}
+
+.ball {
+    width: 25%;
+    float: right;
+}
+.code {
+    width: 25%;
+    float: left;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 4px;
+    border-color: maroon;
+}
+
+.bottom {
+    background-color: #66BFBF;
+    padding: 20px;
+}
+
+a {
+    margin: 10px;
+    color: #11999E;
+}
+
+.bottom p {
+    color: #EAF6F6;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    border-radius: 100%;
+    text-decoration: none;
+    padding: 10px;
+}
+.contact-me {
+    margin: 40px;
+    line-height: 2;
+}
